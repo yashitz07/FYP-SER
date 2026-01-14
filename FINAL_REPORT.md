@@ -1,5 +1,7 @@
 # 🎤 Speech Emotion Recognition - Final Project Report
 
+**Repository:** https://github.com/yashitz07/FYP-SER  
+**Author:** [yashitz07](https://github.com/yashitz07)  
 **Date:** January 14, 2026  
 **Status:** ✅ **COMPLETE & READY FOR DEPLOYMENT**  
 **Framework:** Streamlit + TensorFlow  

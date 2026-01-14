@@ -1,5 +1,8 @@
 # Deployment Guide for Speech Emotion Recognition App
 
+**Repository:** https://github.com/yashitz07/FYP-SER  
+**Author:** [yashitz07](https://github.com/yashitz07)
+
 This guide explains how to deploy the SER (Speech Emotion Recognition) system on Hugging Face Spaces.
 
 ## Option 1: Deploy on Hugging Face Spaces (RECOMMENDED)

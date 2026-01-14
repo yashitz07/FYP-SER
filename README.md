@@ -1,5 +1,8 @@
 # Speech Emotion Recognition (SER) System
 
+**Repository:** https://github.com/yashitz07/FYP-SER  
+**Author:** [yashitz07](https://github.com/yashitz07)
+
 A comprehensive deep learning system for recognizing emotions in speech using the RAVDESS dataset. This project combines traditional audio features with deep neural networks to achieve robust emotion classification.
 
 ## Features
@@ -29,8 +32,8 @@ A comprehensive deep learning system for recognizing emotions in speech using th
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/final_year_project.git
-cd final_year_project
+git clone https://github.com/yashitz07/FYP-SER.git
+cd FYP-SER
 
 # Create virtual environment
 python -m venv venv

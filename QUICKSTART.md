@@ -1,13 +1,16 @@
 # Quick Start Guide
 
+**Repository:** https://github.com/yashitz07/FYP-SER  
+**Author:** [yashitz07](https://github.com/yashitz07)
+
 Get the Speech Emotion Recognition system running in minutes!
 
 ## Installation
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/final_year_project.git
-cd final_year_project
+git clone https://github.com/yashitz07/FYP-SER.git
+cd FYP-SER
 ```
 
 ### 2. Create Virtual Environment
